@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="series.serie3.GraphTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2022-11-19T23:17:57" hostname="DESKTOP-615HPNG" time="0.103">
+  <properties/>
+  <testcase name="graph_equalElements()" classname="series.serie3.GraphTest" time="0.037"/>
+  <testcase name="graph_testIterators()" classname="series.serie3.GraphTest" time="0.013"/>
+  <testcase name="graph_someElements()" classname="series.serie3.GraphTest" time="0.012"/>
+  <testcase name="multiple_vertices()" classname="series.serie3.GraphTest" time="0.0"/>
+  <testcase name="two_edges()" classname="series.serie3.GraphTest" time="0.001"/>
+  <testcase name="random_vertices()" classname="series.serie3.GraphTest" time="0.005"/>
+  <testcase name="no_edges()" classname="series.serie3.GraphTest" time="0.001"/>
+  <testcase name="graph_singleton()" classname="series.serie3.GraphTest" time="0.001"/>
+  <testcase name="multiple_edges()" classname="series.serie3.GraphTest" time="0.019"/>
+  <testcase name="random_vertex_and_edges()" classname="series.serie3.GraphTest" time="0.002"/>
+  <testcase name="no_vertices()" classname="series.serie3.GraphTest" time="0.001"/>
+  <testcase name="graph_empty()" classname="series.serie3.GraphTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
